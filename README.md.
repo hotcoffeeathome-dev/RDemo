@@ -1,0 +1,14 @@
+# RDemo
+
+## Reproducible Research Assignment
+
+This project demonstrates a basic R script created using RStudio.
+
+### Files
+- `demo.R` — prints a demo message in the R console.
+
+### How to run
+Open `demo.R` in RStudio and run the script.
+
+### Author
+GitHub: [hotcoffeeathome-dev](https://github.com/hotcoffeeathome-dev)
